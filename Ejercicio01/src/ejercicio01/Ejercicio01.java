@@ -13,7 +13,7 @@ public class Ejercicio01 {
         double resultado = (variable1 + variable2 + variable3 + variable4) / 
                 variable5 + Math.sqrt(variable6);
         System.out.println(resultado);
-        
+        // Corregi la variable 6 por el numero 81
     }
 
 }
