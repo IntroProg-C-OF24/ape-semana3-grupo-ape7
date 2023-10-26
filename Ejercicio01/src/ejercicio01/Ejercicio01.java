@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 668c5e054c027c1ecc373491fce13c99a6d2a912
 package ejercicio01;
 public class Ejercicio01 {
     public static void main(String[] args) {
