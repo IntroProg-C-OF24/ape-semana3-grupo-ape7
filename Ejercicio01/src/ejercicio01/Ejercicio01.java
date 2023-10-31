@@ -1,9 +1,11 @@
+<<<<<<< HEAD
+=======
 
+>>>>>>> 668c5e054c027c1ecc373491fce13c99a6d2a912
 package ejercicio01;
 public class Ejercicio01 {
     public static void main(String[] args) {
         // Solución a la problemática
-
         int variable1 = 1;
         int variable2 = 2;
         int variable3 = 4;
@@ -15,7 +17,7 @@ public class Ejercicio01 {
         double resultado = (variable1 + variable2 + variable3 + variable4) / 
                 variable5 + Math.sqrt(variable6);
         System.out.println(resultado);
-
+        // Corregi la variable 6 por el numero 81
     }
 
 }
