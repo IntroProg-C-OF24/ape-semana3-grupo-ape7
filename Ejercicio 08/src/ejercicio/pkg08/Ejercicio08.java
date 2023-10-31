@@ -10,11 +10,12 @@ public class Ejercicio08 {
         int val5= 3;
         int val6= 200;
         int val7= 50;
+        int val8= 51;
         boolean op1;
         boolean op2;
         boolean rta=false;
         op1= (val*val1)+val2-val3/val4 + (Math.pow(val5, val4))>=val6;
-        op2= val7>=val7-val7+(val7+1);
+        op2= val7>=val7-val7+val8;
         System.out.println("La respuesta de la primera operacion es: " + op1);
         System.out.println("La respuesta de la segunda operacion es: " + op2);
         System.out.println("La respuesta total de este ejercicio es: " + rta );
